@@ -347,7 +347,6 @@ class LoginasBuyer extends JFrame {
         JButton jButton6local = new JButton("Local Good ");
         JButton jButton7trad = new JButton("Traditional Goods");
         JButton mainmenu = new JButton("Main Menu");
-        //JButton shopnowjbutton = new JButton("Shop Now");  //buyer login //ei button e chap dilei product code e jabe jekhane code onujai calculating method hobe
         Thread  thread = new Thread(){
             @Override
             public void run(){
